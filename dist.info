@@ -1,5 +1,5 @@
 name = "lua-log"
-version = "0.1.6"
+version = "0.1.6-p1"
 
 desc = "Asynchronous logging library"
 author = "Alexey Melnichuk"
